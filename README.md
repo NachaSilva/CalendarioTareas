@@ -14,13 +14,13 @@ Este proyecto comenzó el año 2022 cuando me encontraba en el programa de Oracl
 
 ### Desktop Size
 
-![imagen](assets\desktopSize.png)
+![imagen](assets/desktopSize.png)
 
 ### Tablet Size
-![imagen](assets\tabletSize.png)
+![imagen](assets/tabletSize.png)
 
 ### Mobile Size
-![imagen](assets\mobileSize.png)
+![imagen](assets/mobileSize.png)
 
 ## 2. Características
 
