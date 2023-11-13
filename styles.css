@@ -133,8 +133,20 @@ form {
 @media (max-width: 600px){
 
   .inputForm{
-    width: 100%;
+    width: 30%;
+    margin-right: 10px;
   }
+  .mainCard{
+    width: 70%;
+  }
+  .btnCreate{
+    margin-left: 10px;
+    font-size: 15px;
+    padding: 0px 15px;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 1150px){
   .mainCard{
     width: 70%;
   }
